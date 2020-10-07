@@ -1,0 +1,34 @@
+html {
+  font-size: 10px;
+  --color-text: #050F19;
+  --color-hint: #708598;
+  --color-links: #174AD1;
+  --color-bg_grey: #FAFBFC;
+  --color-bg_white: white;
+  --color-green: #0D9B5F;
+  --color-red: #E92F2F;
+  --color-link: #FED83D;
+  --color-bg_avatar: #9B51E0;
+  --color-stroke: #ECEFF1;
+  --size-max_width: 110rem;
+}
+
+header {
+  font-size: 1.2rem;
+  font-family: "Open Sans", sans-serif;
+  color: var(--color-hint, #708598);
+  background-color: var(--color-bg_grey);
+}
+
+main {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.4rem;
+  color: var(--color-text, #050F19);
+  background-color: var(--color-bg_white, red);
+}
+
+body {
+  margin: 0;
+}
+
+/*# sourceMappingURL=base.ecbd33f2.css.map */
