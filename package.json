@@ -10,7 +10,7 @@
     "runParcel": "parcel src/pages/index/index.pug --out-dir dist/dev",
     "buildParcel": "parcel build src/pages/index/index.pug --no-minify --public-url ./ --out-dir dist/build/docs",
     "dev": "npm run cleanCashe && npm run runParcel",
-    "build": "npm run cleanCashe && npm run buildParcel"
+    "build": "npm run cleanCashe && npm run cleanDistBuild && npm run buildParcel"
   },
   "repository": {
     "type": "git",
