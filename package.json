@@ -1,7 +1,7 @@
 {
-  "name": "starterkit",
+  "name": "calc",
   "version": "1.0.0",
-  "description": "Starter Kit",
+  "description": "Calc",
   "main": "src/pages/index/index.pug",
   "private": true,
   "scripts": {
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArhDemetriy/starterKit.git"
+    "url": "git+https://github.com/ArhDemetriy/Calc.git"
   },
   "author": "ArhDemetriy <ArhDemetriy@GMail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ArhDemetriy/starterKit/issues"
+    "url": "https://github.com/ArhDemetriy/Calc/issues"
   },
-  "homepage": "https://github.com/ArhDemetriy/starterKit#readme",
+  "homepage": "https://github.com/ArhDemetriy/Calc#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "pug": "^3.0.0",
